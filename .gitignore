@@ -1,0 +1,3 @@
+*.swp
+debian/*.swp
+composer.phar
