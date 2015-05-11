@@ -1,3 +1,5 @@
 *.swp
-debian/*.swp
 composer*
+debian/php-composer.debhelper.log
+debian/php-composer*
+debian/files

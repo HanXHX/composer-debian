@@ -1,4 +1,10 @@
-php-composer (1.0.0-alpha8-1) unstable; urgency=low
+php-composer (1.0.0~alpha10-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Emilien Mantel <emilien.mantel@debianiste.org>  Mon, 11 May 2015 16:41:27 +0200
+
+php-composer (1.0.0~alpha8-1) unstable; urgency=low
 
   * New upstream release 
 
