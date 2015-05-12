@@ -4,5 +4,5 @@ before_install:
 
 script:
   - dpkg-buildpackage -us -uc -b
-  - dpkg -i ../php-composer*.deb
+  - sudo dpkg -i ../php-composer*.deb
   - composer
