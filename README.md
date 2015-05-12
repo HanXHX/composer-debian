@@ -3,6 +3,8 @@ composer-debian
 
 PHP composer debian (ubuntu) package
 
+[![Build Status](https://travis-ci.org/HanXHX/composer-debian.svg)](https://travis-ci.org/HanXHX/composer-debian)
+
 
 Create package
 --------------
