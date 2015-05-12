@@ -1,6 +1,8 @@
 before_install:
   - sudo apt-get update -qq
-  - sudo apt-get install -qq debhelper curl php5-cli 
+  - sudo apt-get install -qq debhelper curl php5-cli php5-curl
 
 script:
-  - dpkg-buildpackage -us -uc -b 
+  - dpkg-buildpackage -us -uc -b
+  - dpkg -i ../php-composer*.deb
+  - composer
